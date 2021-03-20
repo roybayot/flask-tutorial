@@ -5,7 +5,7 @@ Flask==1.1.2
 -e git+git@github.com:roybayot/flask-tutorial.git@5f9bcaebf694c3b60b366d9ff5ae3486cd7cb6d8#egg=flaskr
 importlib-metadata==1.6.1
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 more-itertools==8.4.0
 packaging==20.4
